@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - LevelManager
+  - UpsideDown
+  - IceRoot
+  - Enemies
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ice
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ice
+    uniqueID: 2669146569
+    locked: 0
+  - name: Shadow
+    uniqueID: 3384057121
+    locked: 0
+  - name: IceTrail
+    uniqueID: 990358881
+    locked: 0
+  - name: Moster
+    uniqueID: 997140821
+    locked: 0
+  - name: Item
+    uniqueID: 1089053421
+    locked: 0
+  - name: Player
+    uniqueID: 539902131
+    locked: 0
+  - name: Foreground
+    uniqueID: 1076440653
+    locked: 0
+  m_RenderingLayers:
+  - Default

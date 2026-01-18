@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: d77f567a8326ea24f87d3f65714cc6be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1864556547573477406
+    second: Free-Water-Effects-Sprite-Pack03_0
+  - first:
+      213: -9179278283662413816
+    second: Free-Water-Effects-Sprite-Pack03_1
+  - first:
+      213: 551794367622265514
+    second: Free-Water-Effects-Sprite-Pack03_2
+  - first:
+      213: 3429222905750817672
+    second: Free-Water-Effects-Sprite-Pack03_3
+  - first:
+      213: 1646704836610264337
+    second: Free-Water-Effects-Sprite-Pack03_4
+  - first:
+      213: 5564389309103311216
+    second: Free-Water-Effects-Sprite-Pack03_5
+  - first:
+      213: -991768734989332928
+    second: Free-Water-Effects-Sprite-Pack03_6
+  - first:
+      213: 5540175820684057280
+    second: Free-Water-Effects-Sprite-Pack03_7
+  - first:
+      213: -865018010579118582
+    second: Free-Water-Effects-Sprite-Pack03_8
+  - first:
+      213: -6192139351242546563
+    second: Free-Water-Effects-Sprite-Pack03_9
+  - first:
+      213: -4856413947271708741
+    second: Free-Water-Effects-Sprite-Pack03_10
+  - first:
+      213: 1925409089769251652
+    second: Free-Water-Effects-Sprite-Pack03_11
+  - first:
+      213: 1280735346532973267
+    second: Free-Water-Effects-Sprite-Pack03_12
+  - first:
+      213: 1965845816374274178
+    second: Free-Water-Effects-Sprite-Pack03_13
+  - first:
+      213: -3914027409856527225
+    second: Free-Water-Effects-Sprite-Pack03_14
+  - first:
+      213: -3791031686344609815
+    second: Free-Water-Effects-Sprite-Pack03_15
+  - first:
+      213: 3011207839828119274
+    second: Free-Water-Effects-Sprite-Pack03_16
+  - first:
+      213: -4429149560113873963
+    second: Free-Water-Effects-Sprite-Pack03_17
+  - first:
+      213: 5666102854465896255
+    second: Free-Water-Effects-Sprite-Pack03_18
+  - first:
+      213: 7232362880231581148
+    second: Free-Water-Effects-Sprite-Pack03_19
+  - first:
+      213: -8503161608636134617
+    second: Free-Water-Effects-Sprite-Pack03_20
+  - first:
+      213: 7011487157819340310
+    second: Free-Water-Effects-Sprite-Pack03_21
+  - first:
+      213: -5214731508001708665
+    second: Free-Water-Effects-Sprite-Pack03_22
+  - first:
+      213: -4949559652812723160
+    second: Free-Water-Effects-Sprite-Pack03_23
+  - first:
+      213: -6273715053698258099
+    second: Free-Water-Effects-Sprite-Pack03_24
+  - first:
+      213: 4665170580236518242
+    second: Free-Water-Effects-Sprite-Pack03_25
+  - first:
+      213: 7726228606926008394
+    second: Free-Water-Effects-Sprite-Pack03_26
+  - first:
+      213: -2177956299546091097
+    second: Free-Water-Effects-Sprite-Pack03_27
+  - first:
+      213: -4420359095821436278
+    second: Free-Water-Effects-Sprite-Pack03_28
+  - first:
+      213: 6499700418539196397
+    second: Free-Water-Effects-Sprite-Pack03_29
+  - first:
+      213: -2625572260600478768
+    second: Free-Water-Effects-Sprite-Pack03_30
+  - first:
+      213: -4679149849906030825
+    second: Free-Water-Effects-Sprite-Pack03_31
+  - first:
+      213: 9092903469319136340
+    second: Free-Water-Effects-Sprite-Pack03_32
+  - first:
+      213: 4448158679307358059
+    second: Free-Water-Effects-Sprite-Pack03_33
+  - first:
+      213: -5110180197053720128
+    second: Free-Water-Effects-Sprite-Pack03_34
+  - first:
+      213: 2476255904671222050
+    second: Free-Water-Effects-Sprite-Pack03_35
+  - first:
+      213: -2674965876365459935
+    second: Free-Water-Effects-Sprite-Pack03_36
+  - first:
+      213: 3471766435625236044
+    second: Free-Water-Effects-Sprite-Pack03_37
+  - first:
+      213: 1609820170099714358
+    second: Free-Water-Effects-Sprite-Pack03_38
+  - first:
+      213: 1054532070355483991
+    second: Free-Water-Effects-Sprite-Pack03_39
+  - first:
+      213: -1450683017355484653
+    second: Free-Water-Effects-Sprite-Pack03_40
+  - first:
+      213: -5443375465819640084
+    second: Free-Water-Effects-Sprite-Pack03_41
+  - first:
+      213: -5834363536461170860
+    second: Free-Water-Effects-Sprite-Pack03_42
+  - first:
+      213: 8069823049607664654
+    second: Free-Water-Effects-Sprite-Pack03_43
+  - first:
+      213: -7513179392137178094
+    second: Free-Water-Effects-Sprite-Pack03_44
+  - first:
+      213: -4596504489407633637
+    second: Free-Water-Effects-Sprite-Pack03_45
+  - first:
+      213: -5350195957699027912
+    second: Free-Water-Effects-Sprite-Pack03_46
+  - first:
+      213: 7225554750527807186
+    second: Free-Water-Effects-Sprite-Pack03_47
+  - first:
+      213: 8164817289442567657
+    second: Free-Water-Effects-Sprite-Pack03_48
+  - first:
+      213: -2094094064307743048
+    second: Free-Water-Effects-Sprite-Pack03_49
+  - first:
+      213: 7816785249061012533
+    second: Free-Water-Effects-Sprite-Pack03_50
+  - first:
+      213: -385209846759960619
+    second: Free-Water-Effects-Sprite-Pack03_51
+  - first:
+      213: -1289547392979481000
+    second: Free-Water-Effects-Sprite-Pack03_52
+  - first:
+      213: 5351564417584160157
+    second: Free-Water-Effects-Sprite-Pack03_53
+  - first:
+      213: -1321347796741446113
+    second: Free-Water-Effects-Sprite-Pack03_54
+  - first:
+      213: -2353021449460963502
+    second: Free-Water-Effects-Sprite-Pack03_55
+  - first:
+      213: -6727390922591489128
+    second: Free-Water-Effects-Sprite-Pack03_56
+  - first:
+      213: 5861325754424087362
+    second: Free-Water-Effects-Sprite-Pack03_57
+  - first:
+      213: -1492676932372729628
+    second: Free-Water-Effects-Sprite-Pack03_58
+  - first:
+      213: 9035931673875688196
+    second: Free-Water-Effects-Sprite-Pack03_59
+  - first:
+      213: -4685953538553844487
+    second: Free-Water-Effects-Sprite-Pack03_60
+  - first:
+      213: 828360904216505620
+    second: Free-Water-Effects-Sprite-Pack03_61
+  - first:
+      213: 4235007761021051787
+    second: Free-Water-Effects-Sprite-Pack03_62
+  - first:
+      213: -6877888914260774715
+    second: Free-Water-Effects-Sprite-Pack03_63
+  - first:
+      213: 355879323292801857
+    second: Free-Water-Effects-Sprite-Pack03_64
+  - first:
+      213: -2466974144965414910
+    second: Free-Water-Effects-Sprite-Pack03_65
+  - first:
+      213: 705026704854693487
+    second: Free-Water-Effects-Sprite-Pack03_66
+  - first:
+      213: -2556377548221526143
+    second: Free-Water-Effects-Sprite-Pack03_67
+  - first:
+      213: -6326914933339758906
+    second: Free-Water-Effects-Sprite-Pack03_68
+  - first:
+      213: -239387239830603060
+    second: Free-Water-Effects-Sprite-Pack03_69
+  - first:
+      213: 6605362291687610746
+    second: Free-Water-Effects-Sprite-Pack03_70
+  - first:
+      213: -4595014831505903682
+    second: Free-Water-Effects-Sprite-Pack03_71
+  - first:
+      213: -7400466967753739570
+    second: Free-Water-Effects-Sprite-Pack03_72
+  - first:
+      213: 974226914560988178
+    second: Free-Water-Effects-Sprite-Pack03_73
+  - first:
+      213: -3287968281094283778
+    second: Free-Water-Effects-Sprite-Pack03_74
+  - first:
+      213: 6232888357762652987
+    second: Free-Water-Effects-Sprite-Pack03_75
+  - first:
+      213: -4555687416791079816
+    second: Free-Water-Effects-Sprite-Pack03_76
+  - first:
+      213: 74321062774542712
+    second: Free-Water-Effects-Sprite-Pack03_77
+  - first:
+      213: -8765858020883303555
+    second: Free-Water-Effects-Sprite-Pack03_78
+  - first:
+      213: 1341314221936968986
+    second: Free-Water-Effects-Sprite-Pack03_79
+  - first:
+      213: 2158116999731084863
+    second: Free-Water-Effects-Sprite-Pack03_80
+  - first:
+      213: 986713320936682884
+    second: Free-Water-Effects-Sprite-Pack03_81
+  - first:
+      213: 5371582840930729770
+    second: Free-Water-Effects-Sprite-Pack03_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10feb91d4c30e910800000000000000
+      internalID: 1864556547573477406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80038dfe807ac9080800000000000000
+      internalID: -9179278283662413816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabf27cd0e58a700800000000000000
+      internalID: 551794367622265514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b09e0601c079f20800000000000000
+      internalID: 3429222905750817672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d821403554ad610800000000000000
+      internalID: 1646704836610264337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0798511689ea83d40800000000000000
+      internalID: 5564389309103311216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e4f9317978c32f0800000000000000
+      internalID: -991768734989332928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad4194e88a2ec40800000000000000
+      internalID: 5540175820684057280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06dd13d3b6def3f0800000000000000
+      internalID: -865018010579118582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 225
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d726871411a111aa0800000000000000
+      internalID: -6192139351242546563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbffd9ece3d8a9cb0800000000000000
+      internalID: -4856413947271708741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443210bad5d68ba10800000000000000
+      internalID: 1925409089769251652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da7265130616c110800000000000000
+      internalID: 1280735346532973267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2882d20ca56184b10800000000000000
+      internalID: 1965845816374274178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7840c52eec49ea9c0800000000000000
+      internalID: -3914027409856527225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efed2b54cc836bc0800000000000000
+      internalID: -3791031686344609815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee83d58395f9c920800000000000000
+      internalID: 3011207839828119274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbb55411ff7882c0800000000000000
+      internalID: -4429149560113873963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f344d968a02ae40800000000000000
+      internalID: 5666102854465896255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5acea88b38e5460800000000000000
+      internalID: 7232362880231581148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_20
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b01819193bef980800000000000000
+      internalID: -8503161608636134617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Water-Effects-Sprite-Pack03_21
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 75
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f80deb6ecd4160800000000000000
+      internalID: 7011487157819340310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e354c4f74fc88904fb29421427ded736
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":150.0,"y":150.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Free-Water-Effects-Sprite-Pack03_0: 1864556547573477406
+      Free-Water-Effects-Sprite-Pack03_1: -9179278283662413816
+      Free-Water-Effects-Sprite-Pack03_10: -4856413947271708741
+      Free-Water-Effects-Sprite-Pack03_11: 1925409089769251652
+      Free-Water-Effects-Sprite-Pack03_12: 1280735346532973267
+      Free-Water-Effects-Sprite-Pack03_13: 1965845816374274178
+      Free-Water-Effects-Sprite-Pack03_14: -3914027409856527225
+      Free-Water-Effects-Sprite-Pack03_15: -3791031686344609815
+      Free-Water-Effects-Sprite-Pack03_16: 3011207839828119274
+      Free-Water-Effects-Sprite-Pack03_17: -4429149560113873963
+      Free-Water-Effects-Sprite-Pack03_18: 5666102854465896255
+      Free-Water-Effects-Sprite-Pack03_19: 7232362880231581148
+      Free-Water-Effects-Sprite-Pack03_2: 551794367622265514
+      Free-Water-Effects-Sprite-Pack03_20: -8503161608636134617
+      Free-Water-Effects-Sprite-Pack03_21: 7011487157819340310
+      Free-Water-Effects-Sprite-Pack03_3: 3429222905750817672
+      Free-Water-Effects-Sprite-Pack03_4: 1646704836610264337
+      Free-Water-Effects-Sprite-Pack03_5: 5564389309103311216
+      Free-Water-Effects-Sprite-Pack03_6: -991768734989332928
+      Free-Water-Effects-Sprite-Pack03_7: 5540175820684057280
+      Free-Water-Effects-Sprite-Pack03_8: -865018010579118582
+      Free-Water-Effects-Sprite-Pack03_9: -6192139351242546563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
